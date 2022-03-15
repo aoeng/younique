@@ -1,10 +1,10 @@
 {
   "name": "Yusd Alliance List",
   "logoURI": "https://www.youni.cool/img/user/icon-YUSD.png",
-  "timestamp": 1647330022108,
+  "timestamp": 1647330022308,
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 3
   },
   "tokens": [
@@ -23,7 +23,7 @@
       "decimals": 6,
       "name": "Younique USD",
       "logoURI": "https://www.youni.cool/img/user/icon-YUSD.png"
-    }
+    },
     {
       "symbol": "USDC",
       "name": "USD Coin",
