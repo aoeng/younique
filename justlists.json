@@ -1,11 +1,11 @@
 {
     "name": "Yusd Alliance List",
     "logoURI": "https://www.youni.cool/img/user/icon-YUSD.png",
-    "timestamp": 1646980587000,
+    "timestamp": 1647332377137,
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
         {
