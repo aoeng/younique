@@ -1,0 +1,44 @@
+{
+    "name": "Test Alliance List",
+    "logoURI": "https://www.youni.cool/img/user/icon-YUSD.png",
+    "timestamp": 1647332377137,
+    "version": {
+        "major": 2,
+        "minor": 1,
+        "patch": 1
+    },
+    "tokens": [
+        {
+            "symbol": "USDT",
+            "name": "Tether USD",
+            "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+        },
+        {
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz81.png"
+        },
+        {
+            "symbol": "USDJ",
+            "name": "JUST Stablecoin",
+            "address": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/logo/usdj.png"
+        },
+        {
+            "symbol": "TUSD",
+            "name": "TrueUSD",
+            "address": "TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/logo/TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4.png"
+        }
+    ]
+}
